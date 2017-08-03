@@ -1,0 +1,10 @@
+server:
+  port: 8000
+
+spring:
+  application:
+    name: dockerized-web-app
+    
+app:
+  param1: Rob (p1) 
+  param2: Paul (p2)
